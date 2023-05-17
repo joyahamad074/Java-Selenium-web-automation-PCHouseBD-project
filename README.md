@@ -1,9 +1,9 @@
 # Java-Selenium-web-automation-PCHouseBD-project
 
 ## Prerequisite:
-1. A java ide must install into the system(like Eclipse or Spring tool)
-2. And also make sure that java and maven install properly into the system with setting up environment varibale properly
-3. In `pom.xml` file `selenium` and `TestNg` dependency must added
+1. A java IDE must installed into the system(like Eclipse or Spring tool)
+2. And also make sure that java and maven install properly into the system with setting up environment variable properly
+3. In `pom.xml` file `selenium` and `TestNg` latest version of dependency must added
 
 ## Description:
 
